@@ -1,0 +1,53 @@
+{
+  "t-shirts": [
+    {
+      "id": 1,
+      "title": "short sleeves t-shirt",
+      "availableSizes": ["S", "L", "XL", "XXL"],
+      "price": 14.75,
+      "isFreeShipping": true,
+      "description": "This shirt is 100% cotton",
+      "colors": ["red", "blue", "orange", "black"]
+    },
+    {
+      "id": 2,
+      "title": "long sleeves t-shirt",
+      "availableSizes": ["S", "L", "XL", "XXL"],
+      "price": 18,
+      "isFreeShipping": true,
+      "description": "This shirt is 100% cotton",
+      "colors": ["pink", "blue", "orange", "green"]
+    }
+  ],
+  "bags": [
+    {
+      "id": 1,
+      "title": "Tote Bag",
+      "price": 12,
+      "isFreeShipping": true,
+      "description": "This bag is made of 100% cotton canvas",
+      "colors": ["white", "black"]
+    }
+  ],
+  "mugs": [
+    {
+      "id": 1,
+      "title": "Mug",
+      "price": 9.77,
+      "isFreeShipping": true,
+      "description": "Ceramic coffee mug that's microwave and dishwasher safe and has a classic C-curve handle. ",
+      "colors": ["white"]
+    }
+  ],
+  "pillows": [
+    {
+      "id": 1,
+      "title": "pillow",
+      "price": 11.75,
+      "isFreeShipping": true,
+      "description": "pillow cover is made of 100% cotton, filled with fiber",
+      "avilableShapes": ["square", "rectangular", "circle"],
+      "colors": ["white"]
+    }
+  ]
+}
